@@ -70,9 +70,9 @@
 		435391952BDE1E2800128F3F /* Articles */ = {
 			isa = PBXGroup;
 			children = (
-				435391BC2BDF438200128F3F /* TableViewCells */,
-				435391BB2BDF437100128F3F /* ViewControllers */,
 				435391B62BDF329B00128F3F /* Models */,
+				435391BB2BDF437100128F3F /* ViewControllers */,
+				435391BC2BDF438200128F3F /* TableViewCells */,
 				435391B32BDF324600128F3F /* Helpers */,
 				435391AE2BDF318400128F3F /* Network */,
 				435391962BDE1E2800128F3F /* AppDelegate.swift */,
